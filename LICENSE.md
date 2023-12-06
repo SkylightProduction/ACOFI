@@ -3,7 +3,7 @@
 - Publishing the mod on unverified sites is forbidden.
 - It is forbidden to use a modified version of the mod.
 ## Using
-- You can download the mod from [Modrinth](https://modrinth.com/mod/). You can also play it freely in a local or online game.
+- You can download the mod from [Modrinth](https://modrinth.com/mod/acofi). You can also play it freely in a local or online game.
 - You are free to use our mod in modpacks.
 ## Porting and backporting
 - Beckport Alternate Create Of Fiery Items is not allowed.
