@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": { "tag": "forge:ingots/fiery" },
+  "base": { "item": "minecraft:netherite_chestplate" },
+  "result": { "item": "twilightforest:fiery_chestplate" },
+  "template": { "item": "acofi:fiery_upgrade_template" }
+}

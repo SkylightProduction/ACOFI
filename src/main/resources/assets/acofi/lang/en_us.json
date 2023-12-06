@@ -1,0 +1,12 @@
+{
+  "upgrade.acofi.fiery_upgrade": "Fiery upgrade",
+  "item.acofi.smithing_template.fiery_upgrade.applies_to": "Netherite equipment",
+  "item.acofi.smithing_template.fiery_upgrade.ingredients": "Fiery ingot",
+  "item.acofi.smithing_template.fiery_upgrade.base_slot_description": "Place netherite armor, weapon, or tool",
+  "item.acofi.smithing_template.fiery_upgrade.additions_slot_description": "Place fiery ingot",
+
+  "pack.acofi.description": "ACOFI resources",
+
+  "pack.acofi.acofi_add.description": "ACOFI addition resources",
+  "pack.acofi.acofi_add.title": "ACOFI add."
+}
