@@ -1,5 +1,7 @@
 # Alternate Create Of Fiery Items
 
+![](https://cdn.discordapp.com/attachments/968157912843288606/1182229477745500190/23.png?ex=6583f000&is=65717b00&hm=d1c54fde013ec9608fdfad9fb6a2d37b4113ceea0c0059c6fe6f2efff701eaa9&)
+
 <details>
 <summary>EN</summary>
 
