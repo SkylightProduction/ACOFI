@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "IGI",
-    "IWI",
-    "III"
-  ],
-  "key": {
-    "W": { "tag": "acofi:twilight_forest_logs" },
-    "I": { "item": "twilightforest:fiery_ingot" },
-    "G": { "item": "acofi:fiery_upgrade_template" }
-  },
-  "result": {
-    "count": 2,
-    "item": "acofi:fiery_upgrade_template"
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IGI",
+        "IWI",
+        "III"
+    ],
+    "key": {
+        "W": { "tag": "acofi:twilight_forest_logs" },
+        "I": { "item": "twilightforest:fiery_ingot" },
+        "G": { "item": "acofi:fiery_upgrade_template" }
+    },
+    "result": {
+        "count": 2,
+        "item": "acofi:fiery_upgrade_template"
+    }
 }

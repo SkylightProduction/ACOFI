@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:smithing_transform",
-  "addition": { "tag": "forge:ingots/fiery" },
-  "base": { "item": "minecraft:netherite_leggings" },
-  "result": { "item": "twilightforest:fiery_leggings" },
-  "template": { "item": "acofi:fiery_upgrade_template" }
+    "type": "minecraft:smithing_transform",
+    "addition": { "tag": "forge:ingots/fiery" },
+    "base": { "item": "minecraft:netherite_leggings" },
+    "result": { "item": "twilightforest:fiery_leggings" },
+    "template": { "item": "acofi:fiery_upgrade_template" }
 }

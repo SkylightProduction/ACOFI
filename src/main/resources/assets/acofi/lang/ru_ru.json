@@ -1,12 +1,10 @@
 {
-  "upgrade.acofi.fiery_upgrade": "Огненное улучшение",
-  "item.acofi.smithing_template.fiery_upgrade.applies_to": "Незеритовому снаряжению",
-  "item.acofi.smithing_template.fiery_upgrade.ingredients": "Огненный слиток",
-  "item.acofi.smithing_template.fiery_upgrade.base_slot_description": "Поместите незеритовый доспех, оружие или инструмент",
-  "item.acofi.smithing_template.fiery_upgrade.additions_slot_description": "Поместите огненный слиток",
+    "upgrade.acofi.fiery_upgrade": "Огненное улучшение",
+    "item.acofi.smithing_template.fiery_upgrade.applies_to": "Незеритовому снаряжению",
+    "item.acofi.smithing_template.fiery_upgrade.ingredients": "Огненный слиток",
+    "item.acofi.smithing_template.fiery_upgrade.base_slot_description": "Поместите незеритовый доспех, оружие или инструмент",
+    "item.acofi.smithing_template.fiery_upgrade.additions_slot_description": "Поместите огненный слиток",
 
-  "pack.acofi.description": "Ресурсы ACOFI",
-
-  "pack.acofi.acofi_add.description": "Дополнительные ресурсы ACOFI",
-  "pack.acofi.acofi_add.title": "ACOFI доп."
+    "pack.acofi.acofi_add.description": "Дополнительные ресурсы ACOFI",
+    "pack.acofi.acofi_add.title": "ACOFI доп."
 }

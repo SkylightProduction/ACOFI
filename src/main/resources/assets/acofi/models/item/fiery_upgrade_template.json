@@ -1,4 +1,4 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": { "layer0": "acofi:item/fiery_upgrade_template" }
+    "parent": "minecraft:item/generated",
+    "textures": { "layer0": "acofi:item/fiery_upgrade_template" }
 }
